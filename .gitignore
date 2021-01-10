@@ -1,0 +1,9 @@
+.project
+.classpath
+.settings
+config.properties
+/.settings
+/temp
+/lib
+/files
+/bin
